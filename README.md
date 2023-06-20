@@ -5,7 +5,7 @@
 
 # Solução do desafio front-pigz
 
-Desafio para a vaga de desenvolvedor front-end na Pigz.
+Desafio para a vaga de desenvolvedor front-end na Pigz. Observação: Esse desafio é melhor visualizado na resolução de 414px.
 
 ![](../pigz-app/public/images/burguer_2.png)
 
