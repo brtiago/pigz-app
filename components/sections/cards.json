@@ -1,0 +1,37 @@
+  [
+    {
+        "id": 1,
+        "title": "Pigz Marketplace",
+        "content": "Além de uma página exclusiva, com o Pigz Marketplace sua loja terá mais visibilidade, no app e no site. Uma vitrine com milhares de clientes todos os dias, pra vender muito mais.",
+        "image": "Celulares",
+        "caption": "Celulares",
+        "path": "/public/images/Grupo de máscara 2417.png"
+    },
+
+    {
+        "id": 2,
+        "title": "Pigz Gestão",
+        "content": "Acompanhe suas vendas em tempo real, no computador ou no celular, de onde estiver. Faça alterações de preços e disponibilidade de produtos rapidamente, como deve ser.",
+        "image": "Notebook",
+        "caption": "Notebook",
+        "path": "/public/images/Grupo de máscara 2418.png"
+    },
+
+    {
+        "id": 3,
+        "title": "Gestão de entregadores",
+        "content": "A ferramenta ideal pra quem tem entrega própria. Controle de entregas por motoboy, geração de relatórios por entregas e por taxas de entrega, individualmente.",
+        "image": "Entregadores",
+        "caption": "Entregadores",
+        "path": "/public/images/Grupo de máscara 2420.png"
+    },
+
+    {
+        "id": 4,
+        "title": "Pagamento on-line",
+        "content": "Segurança e agilidade para receber e entregar pedidos. Seus clientes pagam com Pix ou cartão de crédito pelo app, e o entregador nem precisa levar a maquininha de cartão.",
+        "image": "Cartao",
+        "caption": "Cartão de crédito",
+        "path": "/public/images/mobile.png"
+    }
+  ]
