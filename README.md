@@ -27,10 +27,10 @@ O desafio é criar a landing page da [Pigz](https://pigz.com.br/) para clientes.
 No link [Interface](https://xd.adobe.com/view/ff23f156-a96e-4cf3-a0fb-bc2646c1945a-aa70/specs/) você conseguirá encontrar todo o material necessário para criar a página, incluindo cores, imagens e outros itens. Basta você clicar no componente e no lado esquerdo serão exibidos os detalhes dele (download, cores, textos).
 
 ## Onde acessar?
-Você pode acesar o projeto e aproveitar suas funcionalidades através [desse link](https://www.google.com "Stone currency app") usando seu celular ou desktop.
+Você pode acesar o projeto e aproveitar suas funcionalidades através [deste link](https://pigz-app.vercel.app/ "Pigz app") usando seu celular ou desktop.
 
-- Solution URL: [Github](https://github.com/brtiago/tip-calculator-app-frontendmentor)
-- Live Site URL: [Vercel](https://tip-calculator-weld-five.vercel.app/)
+- Solução URL: [Github](https://github.com/brtiago/pigz-app)
+- Site URL: [Vercel](https://pigz-app.vercel.app/)
 
 ## Objetivos
 
@@ -43,7 +43,7 @@ Seu foco deverá ser criar a página para dispositivos móveis, será para este 
 ### Como clonar o repositório localmente?
 1. Clone este repositório
 ```bash
-git clone https://github.com/
+git clone https://github.com/brtiago/pigz-app
 ```
 2. Instale as dependências.
 
