@@ -65,12 +65,12 @@ Então para acessar a aplicação basta executar o comando acima e em seguida ac
 - [x] Publique seu código no seu perfil no GitHub
 
 ### Adicionais
-<input type="checkbox"> Responsividade</br>
-<input type="checkbox" checked> Padrão de commits</br>
-<input type="checkbox" checked> Readme</br>
-<input type="checkbox" checked> Versionamento de código utilizando Git</br>
-<input type="checkbox"> Faça testes unitários dos seus componentes</br>
-<input type="checkbox" checked> Utlize tailwind
+- [ ] Responsividade
+- [x] Padrão de commits
+- [x] Readme
+- [x] Versionamento de código utilizando Git
+- [ ] Faça testes unitários dos seus componentes
+- [x] Utlize tailwind
 
 ### Status do projeto
 Estou atualizando alguns bugs e layouts.
