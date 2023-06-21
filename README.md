@@ -59,10 +59,10 @@ npm run dev
 Então para acessar a aplicação basta executar o comando acima e em seguida acessar o link: `http://localhost:3000`.
 
 ## Pré-requisitos cumpridos
-- [ x ] Utilize a fonte do layout
-- [ x ] Utilize React
-- [ x ] Publique sua aplicação em uma plataforma de deploy rápido ([vercel](https://zeit.co/) / [heroku](https://www.heroku.com) / [netlify](https://www.netlify.com) / outros)
-- [ x ] Publique seu código no seu perfil no GitHub
+- [x] Utilize a fonte do layout
+- [x] Utilize React
+- [x] Publique sua aplicação em uma plataforma de deploy rápido ([vercel](https://zeit.co/) / [heroku](https://www.heroku.com) / [netlify](https://www.netlify.com) / outros)
+- [x] Publique seu código no seu perfil no GitHub
 
 ### Adicionais
 <input type="checkbox"> Responsividade</br>
