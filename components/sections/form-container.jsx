@@ -41,7 +41,7 @@ const FormQueroVender = () => {
       <button
         onClick={nextPage}
         disabled={page == 2}
-        className="bg-color9 rounded-2xl from-neutral-50 text-base text-white px-32 pt-3 pb-3 absolute bottom-6 w-[334px] h-12"
+        className="bg-color9 rounded-2xl from-neutral-50 text-base text-white px-32 pt-3 pb-3 relative bottom-6 w-[334px] h-12"
       >
         {ButtonTitles[page]}
       </button>
