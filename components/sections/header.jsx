@@ -4,7 +4,7 @@ import Logo from "/public/icons/Pigz Gestão - Logo.svg";
 
 const Header = () => {
   return (
-    <header className="bg-white h-28 pt-14 px-4 pb-4 flex fixed z-[100] w-full opacity-90 justify-center">
+    <header className="bg-white h-28 pt-14 px-4 pb-4 flex fixed z-[100] w-screen opacity-90 justify-center">
       <div className="flex max-w-[1366px] w-full justify-between">
         <Image src={Logo} width={63.99} height={32} alt="Pigz Logo" />
         <button
