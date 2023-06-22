@@ -5,7 +5,7 @@
 
 # Solução do desafio front-pigz
 
-Desafio para a vaga de desenvolvedor front-end na Pigz. Observação: Esse desafio é melhor visualizado na resolução de 414px.
+Solução para o desafio da vaga de desenvolvedor front-end na Pigz. Observação: Esse desafio é melhor visualizado na resolução de 414px.
 
 ![](../pigz-app/public/images/burguer_2.png)
 
@@ -31,6 +31,7 @@ Você pode acesar o projeto e aproveitar suas funcionalidades através [deste li
 
 - Solução URL: [Github](https://github.com/brtiago/pigz-app)
 - Site URL: [Vercel](https://pigz-app.vercel.app/)
+- [Link para o desafio](https://github.com/orangebr/desafio-front-pigz)
 
 ## Objetivos
 
@@ -82,3 +83,4 @@ Copyright © 2023 [Pigz](https://pigz.com.br/) e [Orange Labs](https://orangelab
 ### Material de estudo
 - [Boas Práticas na Stone](https://github.com/stone-payments/stoneco-best-practices/blob/master/README_pt.md)
 - [Airbnb Javascript](https://github.com/airbnb/javascript)
+- [Link para o desafio](https://github.com/orangebr/desafio-front-pigz)
